@@ -1,5 +1,14 @@
 # Delta Chat Android Changelog
 
+## v1.12.4
+2020-08
+
+* fix notifications for Android 4
+* fix and streamline querying permissions
+* fix removing POIs from maps
+* make bot-commands as /echo clickable
+
+
 ## v1.12.3
 2020-08
 
